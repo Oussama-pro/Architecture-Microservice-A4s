@@ -26,13 +26,30 @@
 ### Billing-Service
 
 ### Vault
-![run-vault](https://user-images.githubusercontent.com/62244067/205359511-77e13c08-e86d-4435-a629-5262d974418f.jpg)
-![vault](https://user-images.githubusercontent.com/62244067/205359522-0e9dc340-fda2-4adf-9e1e-330f3f7bb840.jpg)
+![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/6b06d2ba-92ed-4d49-8919-0880eb8353aa)
+<!-- ![vault](https://user-images.githubusercontent.com/62244067/205359522-0e9dc340-fda2-4adf-9e1e-330f3f7bb840.jpg)
 ![vault2](https://user-images.githubusercontent.com/62244067/205359535-a665aab8-83bb-4c61-8cc2-56e9bd2f582f.jpg)
-![vault3](https://user-images.githubusercontent.com/62244067/205359540-8cf2974c-2542-4499-ad88-b0548608aa2e.jpg)
+![vault3](https://user-images.githubusercontent.com/62244067/205359540-8cf2974c-2542-4499-ad88-b0548608aa2e.jpg) -->
 
+### Gateway CORS Config
+![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/b020065a-98bc-4d05-8799-265bcdebb402)
 
+------------------------------------------------------------------------------------------------------------------------
+## FRONTEND :
+![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/9811dafe-83e0-4f5f-97a9-1b789e6c01ed)
 
+#### Home Page :
+![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/54a6cdf8-f7c8-4e31-ab02-a4ac1a4dbdbd)
+#### List Products :
+![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/8e30bcb9-c11b-4302-9daf-052f14892afa)
+#### List Customers :
+![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/e800b384-834e-4765-a175-b59ee4c6f877)
+#### Lister les orders d’un customer :
+![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/e4e84eeb-0416-400f-8614-c32e85526b1d)
+#### Lister les détails d’une order :
+![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/ce208e9e-e620-41a0-9e0d-81a7e33999f6)
+#### ng-template à afficher si une order n’a pas de produits 
+![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/7e8c79cd-0398-4586-9408-a6cb053ebbc4)
 
 
 
