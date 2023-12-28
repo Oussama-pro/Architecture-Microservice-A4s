@@ -35,14 +35,13 @@
 ![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/fe58ef8b-a885-48eb-a1b0-053c329b3628)
 
 ### Billing-Service
+![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/ccca7786-0eef-409b-9e89-57f20d86bc3f)
+![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/30f88f8a-348f-4e7f-8c6d-9a81b77dd250)
 
 ### Vault
-
-![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/6b06d2ba-92ed-4d49-8919-0880eb8353aa)
-
-<!-- ![vault](https://user-images.githubusercontent.com/62244067/205359522-0e9dc340-fda2-4adf-9e1e-330f3f7bb840.jpg)
-![vault2](https://user-images.githubusercontent.com/62244067/205359535-a665aab8-83bb-4c61-8cc2-56e9bd2f582f.jpg)
-![vault3](https://user-images.githubusercontent.com/62244067/205359540-8cf2974c-2542-4499-ad88-b0548608aa2e.jpg) -->
+![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/6be3c65b-91fb-48ca-be3b-3d991195a720)
+![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/b8870166-7318-4ffd-aa07-a25c2cae47d7)
+![image](https://github.com/Oussama-pro/Architecture-Microservice-A4s/assets/98102335/a0438e22-2c34-43d0-a059-3498c130537c)
 
 ### Gateway CORS Config
 
