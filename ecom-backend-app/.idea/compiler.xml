@@ -13,7 +13,6 @@
         <module name="customer-service" />
         <module name="gateway-service" />
         <module name="order-service" />
-        <module name="billing" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

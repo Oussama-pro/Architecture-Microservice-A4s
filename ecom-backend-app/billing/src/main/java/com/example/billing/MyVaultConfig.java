@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 @Component
 @ConfigurationProperties(prefix = "user")
 @Data
-public class MyVaultConfig {
+public class MyVaultConfig {git add .
 
     private String username;
     private String password;
